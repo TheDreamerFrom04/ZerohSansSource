@@ -1,0 +1,8 @@
+Zeroh Sansational Credits
+TheDreamerFrom04::dreamer::Charter, "Programmer", literally the guy that put this all together::https://www.youtube.com/c/TheDreamerFrom04::0xff41269A
+Tenzalt::tenz::Original Song::https://www.youtube.com/channel/UC7KmfbdAPt2bYCcSNJnCm-g::0xff474747
+Zeroh::zeroh::Original Remix::https://www.youtube.com/@catsmirkk::0xff05B2EE
+Indie Cross::indie::Original Assets & Mod::https://gamejolt.com/games/indiecross/643540::0xffc44550
+B-Sides Indie Cross::bic::Base Source Code::https://gamejolt.com/games/indiebsideremixed/742922::0xff0046FF
+BF Myt::face::Creating the port that most scripts are from::https://www.youtube.com/channel/UCEmxX4dQhOdxg8vza0Oe8Nw::0xffffffff
+Washo789::face::Camera Movement Script::https://gamebanana.com/tools/7845::0xffffffff
